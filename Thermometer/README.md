@@ -16,15 +16,19 @@
 
 | **wemos d1 mini** | **DWIN LCD** |
 |:------------------|:-------------|
-| `GPIO 14 (D5)`    | TX pin       |
-| `GPIO 12 (D6)`    | RX pin       |
+| `GPIO 14 (D5)`    | TX2 pin      |
+| `GPIO 12 (D6)`    | RX2 pin      |
+| `VCC (+)`         | +5V          |
+| `GND (-)`         | GND          |
 
 </td>
 <td>
 
 | **wemos d1 mini** | **DHT11 Module** |
 |:----------------|:-------------|
-| `D2`            | TX pin       |
+| `VCC (+)`       | +5V          |
+| `GND (-)`       | GND          |
+| `D2`            | Data         |
 
 </td>
 </tr>
